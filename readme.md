@@ -10,3 +10,4 @@ This api repository was created by our team. We created this repository to conne
 <p align="center">
   <img width="460" src="images/Architecture_cloud.png">
 </p>
+<br/>
