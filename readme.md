@@ -15,7 +15,7 @@ The section above explains how we created the database and deployed it to the co
 <p align="center">
   <img widht="300" height="250" src="images/Architecture-cloud-2.png">
 </p>
-in the picture above this is the architecture that forms a defodrym application, this application is a combination of machine learning and cloud computing so that the code built is integrated into android studio.The following is the result of the fire being run.
+in the picture above this is the architecture that forms a defodrym application, this application is a combination of machine learning and cloud computing so that the code built is integrated into android studio. Following are the results of the Backend database API which was successfully executed.
 <p align="center">
 <img src="images/Cuplikan layar 2023-06-15 150207.png">
 </p>
