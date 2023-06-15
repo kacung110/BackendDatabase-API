@@ -25,6 +25,21 @@ The following are the requirements needed to deploy applications to Google Cloud
 * Do a git clone to the desired repository
 * Requires sufficient Google Cloud credits.
 * We will need compute engine,vpc,sql to deploy the application
+
 # How to set up backend in google cloud
-1.Upload repository from github using git clone 
-  * 
+1. Go to the SSH Button in Instance which has been made.
+2. Do this
+```
+sudo apt update && sudo apt upgrade
+```
+3. Install npm
+```
+Sudo apt install npm
+```
+sudo apt install npm
+```
+4. Install NVM
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+```
+5. Do git clone
