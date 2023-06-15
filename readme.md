@@ -36,8 +36,6 @@ sudo apt update && sudo apt upgrade
 ```
 Sudo apt install npm
 ```
-sudo apt install npm
-```
 4. Install NVM
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
@@ -58,3 +56,11 @@ npm install
 ```
 npm run start
 ```
+# How to access API
+So, we can run this api, then how do we make it run even though it's already out of SSH, because we don't want to monitor the monitor 24 hours just to turn on SSH. One way is to install the pm2 module.
+```
+sudo apt install pm2
+```
+pm2 start server
+```
+by using this module we don't need to monitor for 24 hours executing the hapi framework.
