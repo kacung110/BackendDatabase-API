@@ -19,7 +19,6 @@ in the picture above this is the architecture that forms a defodrym application,
 <p align="center">
 <img src="images/Cuplikan layar 2023-06-15 150207.png">
 </p>
-## Requirement
-how do you deploy this API to google cloud?. Here's how
-* you have to use git clone to download the repository from github
+# Requirement
+
 
