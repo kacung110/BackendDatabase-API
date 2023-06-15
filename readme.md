@@ -61,6 +61,7 @@ So, we can run this api, then how do we make it run even though it's already out
 ```
 sudo apt install pm2
 ```
+by using this module we don't need to monitor for 24 hours executing the hapi framework.
+```
 pm2 start server
 ```
-by using this module we don't need to monitor for 24 hours executing the hapi framework.
