@@ -7,4 +7,6 @@ This api repository was created by our team. We created this repository to conne
 * Afiq Mustofa (C252DSX1625)
 
 ## Cloud Architecture
-
+<p align="center"> 
+<img src="https://drive.google.com/file/d/1nF-XynoWncvBdGZMqru7R1RqVWp_doZV/view?usp=drive_link">
+</p>
