@@ -24,7 +24,5 @@ in the picture above this is the architecture that forms a defodrym application,
 The following are the requirements needed to deploy applications to Google Cloud.
 * Do a git clone to the desired repository
 * Requires sufficient Google Cloud credits.
-* configure google cloud, SQL, and Vpc as desired.
-
-
+* We will need compute engine,vpc,sql to deploy the application
 
