@@ -15,3 +15,4 @@ The section above explains how we created the database and deployed it to the co
 <p align="center">
   <img widht="300" height="250" src="images/Architecture-cloud-2.png">
 </p>
+in the picture above this is the architecture that forms a defodrym application, this application is a combination of machine learning and cloud computing so that the code built is integrated into android studio.
