@@ -43,3 +43,18 @@ sudo apt install npm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 ```
 5. Do git clone
+```
+git clone https://github.com/kacung110/BackendDatabase-API.git
+```
+6. Access repository
+```
+Cd BackendDatabase-API
+```
+7. Install Module Backend
+```
+npm install
+```
+8. Run the backend
+```
+npm run start
+```
