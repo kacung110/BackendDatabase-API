@@ -8,5 +8,5 @@ This api repository was created by our team. We created this repository to conne
 
 ## Cloud Architecture
 <p align="center">
-  <img src="images/Architecture_cloud.png">
+  <img width="200px" src="images/Architecture_cloud.png">
 </p>
