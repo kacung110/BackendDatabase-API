@@ -25,4 +25,6 @@ The following are the requirements needed to deploy applications to Google Cloud
 * Do a git clone to the desired repository
 * Requires sufficient Google Cloud credits.
 * We will need compute engine,vpc,sql to deploy the application
-
+# How to set up backend in google cloud
+1.Upload repository from github using git clone 
+  * 
