@@ -57,6 +57,11 @@ npm install
 npm run start
 ```
 # How to access API
+to access api we need url from compute engine
+```
+http://34.101.166.42/getfooddetails/<foodname>
+```
+# How to make web server running forever
 So, we can run this api, then how do we make it run even though it's already out of SSH, because we don't want to monitor the monitor 24 hours just to turn on SSH. One way is to install the pm2 module.
 ```
 sudo apt install pm2
