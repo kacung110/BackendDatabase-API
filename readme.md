@@ -13,5 +13,5 @@ This api repository was created by our team. We created this repository to conne
 <br/>
 The section above explains how we created the database and deployed it to the compute engine using the Google Cloud platform. In this case, we not only built the database backend but also created api maps to be given to mobile development in the form of an api key.
 <p align="center">
-  <img src="images/Architecture-cloud-2.png">
+  <img widht="400" src="images/Architecture-cloud-2.png">
 </p>
